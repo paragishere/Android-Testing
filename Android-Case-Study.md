@@ -87,7 +87,7 @@ This case documents a challan-themed Android APK investigation involving suspect
 
 ## Evidence Image
 
-The repository may include an anonymized copy of the WhatsApp screenshot at `evidence/whatsapp_apk_message.jpg`. Sender identity and personal information should remain redacted.
+The repository may include an anonymized copy of the WhatsApp screenshot at `Android-Testing/image_evd.jpeg`. Sender identity and personal information should remain redacted.
 
 ## Suggested GitHub Repository Metadata
 
