@@ -6,7 +6,7 @@
 **Sample:** `RTO-E-CHALAN.apk` · 8.2 MB  
 **Reported domain:** `gffad.in`  
 **Analysis tools:** Ghidra · APK reverse-engineering and signature-inspection tools  
-**Author:** Parag Malvi
+**Author:** paragishere
 
 > **Scope note:** This case study documents the analysis activities and evidence currently available. The domain is recorded as investigator-reported; the repository does not yet include the original decompilation excerpt, hash output, certificate details, or network capture needed to independently validate every indicator.
 
